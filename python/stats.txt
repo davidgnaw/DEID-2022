@@ -1,0 +1,183 @@
+
+
+
+
+Examining "Location" category.
+
+
+==========================
+
+Num of true positives = 20
+
+Num of false positives = 1049
+
+Num of false negatives = 347
+
+Sensitivity/Recall = 0.054
+
+PPV/Specificity = 0.557
+
+==========================
+
+
+Examining "DateYear" category.
+
+
+==========================
+
+Num of true positives = 0
+
+Num of false positives = 1056
+
+Num of false negatives = 46
+
+Sensitivity/Recall = 0.0
+
+PPV/Specificity = 0.554
+
+==========================
+
+
+Examining "Date" category. (Only Looking at this One)
+
+
+==========================
+
+Num of true positives = 423
+
+Num of false positives = 874
+
+Num of false negatives = 59
+
+Sensitivity/Recall = 0.878
+
+PPV/Specificity = 0.631
+
+==========================
+
+
+Examining "HCPName" category.
+
+
+==========================
+
+Num of true positives = 7
+
+Num of false positives = 1051
+
+Num of false negatives = 586
+
+Sensitivity/Recall = 0.012
+
+PPV/Specificity = 0.556
+
+==========================
+
+
+Examining "PTName" category.
+
+
+==========================
+
+Num of true positives = 6
+
+Num of false positives = 1054
+
+Num of false negatives = 48
+
+Sensitivity/Recall = 0.111
+
+PPV/Specificity = 0.555
+
+==========================
+
+
+Examining "RelativeProxyName" category.
+
+
+==========================
+
+Num of true positives = 1
+
+Num of false positives = 1056
+
+Num of false negatives = 174
+
+Sensitivity/Recall = 0.006
+
+PPV/Specificity = 0.554
+
+==========================
+
+
+Examining "Phone" category.
+
+
+==========================
+
+Num of true positives = 3
+
+Num of false positives = 1056
+
+Num of false negatives = 50
+
+Sensitivity/Recall = 0.057
+
+PPV/Specificity = 0.554
+
+==========================
+
+
+Examining "Other" category.
+
+
+==========================
+
+Num of true positives = 0
+
+Num of false positives = 1056
+
+Num of false negatives = 3
+
+Sensitivity/Recall = 0.0
+
+PPV/Specificity = 0.554
+
+==========================
+
+
+Examining "PTNameInitial" category.
+
+
+==========================
+
+Num of true positives = 0
+
+Num of false positives = 1056
+
+Num of false negatives = 2
+
+Sensitivity/Recall = 0.0
+
+PPV/Specificity = 0.554
+
+==========================
+
+
+Examining "Age" category.
+
+
+==========================
+
+Num of true positives = 1
+
+Num of false positives = 1055
+
+Num of false negatives = 3
+
+Sensitivity/Recall = 0.25
+
+PPV/Specificity = 0.554
+
+==========================
+
